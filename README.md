@@ -82,18 +82,32 @@
 
 ---
 
-### 📊 Coding Stats
+### 📊 GitHub Analytics
+
+<div align="center">
+  
+**🏆 Current Stats (2025)**
+- ⭐ **Total Stars Earned:** 8
+- 📝 **Total Commits:** 162+
+- 🎯 **Active Repositories:** 10+
+- 💻 **Most Used Language:** JavaScript (50.23%)
+
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohit2508-web&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohit2508-web&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Mohit's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit2508-web&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit2508-web&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit2508-web&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit2508-web&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohit2508-web&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 ---
