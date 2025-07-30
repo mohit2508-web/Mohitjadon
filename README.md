@@ -55,7 +55,6 @@
 | **[Portfolio Website](https://github.com/mohit2508-web/my-Protfolio-web)** | Responsive personal portfolio with dark/light theme and contact form | React.js, Tailwind CSS, Framer Motion, FormsFree | [Live](#) |
 | **[DevOps Training Projects](https://github.com/mohit2508-web/DevOps-training-Jovac)** | Collection of DevOps projects covering CI/CD, containerization, and automation | Docker, Jenkins, Kubernetes, HTML | [View Repo](https://github.com/mohit2508-web/DevOps-training-Jovac) |
 | **[Backend Repository](https://github.com/mohit2508-web/Backend-repo)** | Backend projects showcasing various server-side implementations | Node.js, Express.js, JavaScript | [View Repo](https://github.com/mohit2508-web/Backend-repo) |
-| **[Chat Application](https://github.com/mohit2508-web/chat-aur-react)** | Real-time chat application built with React | React.js, JavaScript | [View Repo](https://github.com/mohit2508-web/chat-aur-react) |
 
 ---
 
@@ -114,9 +113,9 @@
 
 ### 🌟 Problem Solving Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/mohit2508-web)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/mohit2508-web)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mohit2508-web)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Jadon_Mohit/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/_2315001379)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/mohitjado4gcf/)
 
 ---
 
