@@ -1,0 +1,38 @@
+<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f093fb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f5576c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="200" height="60" rx="30" ry="30" fill="url(#grad1)" opacity="0.9"/>
+  
+  <!-- Chat bubble icon -->
+  <g transform="translate(20, 15)">
+    <!-- Main chat bubble -->
+    <path d="M5 2 C2.5 2 0.5 4 0.5 6.5 L0.5 16 C0.5 18.5 2.5 20.5 5 20.5 L15 20.5 C17.5 20.5 19.5 18.5 19.5 16 L19.5 6.5 C19.5 4 17.5 2 15 2 Z" 
+          fill="white" opacity="0.9"/>
+    <!-- Small tail -->
+    <path d="M15 20.5 L18 25 L15 20.5" fill="white" opacity="0.9"/>
+    <!-- Dots inside bubble -->
+    <circle cx="6" cy="11" r="1.5" fill="url(#grad2)"/>
+    <circle cx="10" cy="11" r="1.5" fill="url(#grad2)"/>
+    <circle cx="14" cy="11" r="1.5" fill="url(#grad2)"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="65" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="start">
+    Let's Chat!
+  </text>
+  
+  <!-- Hover effect (optional animation) -->
+  <rect width="200" height="60" rx="30" ry="30" fill="url(#grad2)" opacity="0">
+    <animate attributeName="opacity" values="0;0.2;0" dur="2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
