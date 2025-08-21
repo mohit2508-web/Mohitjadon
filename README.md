@@ -391,8 +391,21 @@
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohit2508-web&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repos
+
+<!-- Stats Image (just image, no wrong redirect) -->
 ![](https://github-contributor-stats.vercel.app/api?username=mohit2508-web&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+### 🚀 My Repositories (Clickable)
+
+- [javascript-codeorchai](https://github.com/mohit2508-web/javascript-codeorchai) [**B**](https://github.com/mohit2508-web/javascript-codeorchai)
+- [Backend-repo](https://github.com/mohit2508-web/Backend-repo) [**B**](https://github.com/mohit2508-web/Backend-repo)
+- [chai-aur-react](https://github.com/mohit2508-web/chai-aur-react) [**B**](https://github.com/mohit2508-web/chai-aur-react)
+- [MindSyncer-Project](https://github.com/mohit2508-web/MindSyncer-Project) [**B**](https://github.com/mohit2508-web/MindSyncer-Project)
+- [DevOps-training-Jovac](https://github.com/mohit2508-web/DevOps-training-Jovac) [**B**](https://github.com/mohit2508-web/DevOps-training-Jovac)
+
 
 ### 📫 Connect with me:
 <p align="center">
